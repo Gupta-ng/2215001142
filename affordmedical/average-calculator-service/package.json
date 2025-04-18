@@ -1,0 +1,15 @@
+{
+  "name": "average-calculator-service",
+  "version": "1.0.0",
+  "description": "A microservice for calculating the average of an array of numbers.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
